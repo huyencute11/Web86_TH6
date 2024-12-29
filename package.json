@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  },
+  "name": "lesson5",
+  "version": "1.0.0",
+  "description": "lesson-5",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
